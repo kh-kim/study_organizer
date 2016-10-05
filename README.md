@@ -1,7 +1,7 @@
 # Self Study Organizer
 
-This is a repository to help self studying.
-Below to study list in each section will be forwarded via email to notify and push myself to study.
+This is a repository to help self studying.  
+Below to study list in each section will be automatically forwarded via email to notify and push myself to study.
 
 ## Lectures
 - [Artificial Intelligence in Google's Dinosaur (English Sub)](https://www.youtube.com/watch?v=P7XHzqZjXQs&feature=share)
