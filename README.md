@@ -75,6 +75,7 @@ Below to study list in each section will be automatically forwarded via email to
 - [TensorFlow With The Latest Papers Implemented](https://github.com/LeavesBreathe/tensorflow_with_latest_papers)
 - [Malmö](https://github.com/Microsoft/malmo)
 - [rllab](https://github.com/openai/rllab) - rllab is a framework for developing and evaluating reinforcement learning algorithms.
+- [Sequence to Sequence Learning with Keras](https://github.com/farizrahman4u/seq2seq)
 - **[Bengio's Deeplearning Book](http://www.deeplearningbook.org/)** - [+papers](https://github.com/HFTrader/DeepLearningBook)
 
 ## Other useful links
