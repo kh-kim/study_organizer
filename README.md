@@ -7,26 +7,41 @@ Below to study list in each section will be automatically forwarded via email to
 - [Artificial Intelligence in Google's Dinosaur (English Sub)](https://www.youtube.com/watch?v=P7XHzqZjXQs&feature=share)
 - [CS 294: Deep Reinforcement Learning, Fall 2015 @ Berkeley](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
 - [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
+- [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 
 ## Articles & Slides
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Deep Language Modeling for Question Answering using Keras](http://benjaminbolte.com/blog/2016/keras-language-modeling.html#recurrent-neural-networks)
 - [Random Forests vs. Deep Learning](http://perso.univ-st-etienne.fr/fod07375/Workshop/assets/slides/Presentation_Wolf.pdf)
 - [Deep Neural Decision Forests](http://www.robots.ox.ac.uk/~tvg/publications/talks/deepNeuralDecisionForests.pdf)
+- [Deep Learning for Question Answering - Mohit Iyyer](http://cs.umd.edu/~miyyer/data/deepqa.pdf)
 
 ## Papers
 - [X-CNN: Cross-modal Convolutional Neural Networks for Sparse Datasets](https://arxiv.org/pdf/1610.00163v1.pdf)
-- [Deep Neural Networks for YouTube Recommendations](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
-- [논문 요약 - Deep Neural Networks for YouTube Recommendations](http://keunwoochoi.blogspot.kr/2016/09/deep-neural-networks-for-youtube.html)
+- [Deep Neural Networks for YouTube Recommendations](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) - [요약](http://keunwoochoi.blogspot.kr/2016/09/deep-neural-networks-for-youtube.html)
 - [Deep Neural Decision Forests](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kontschieder_Deep_Neural_Decision_ICCV_2015_paper.pdf)
 - [Layer Normalization](https://arxiv.org/pdf/1607.06450.pdf)
+- [Question Answering Using Deep Learning](https://cs224d.stanford.edu/reports/StrohMathur.pdf)
+- [A Neural Network for Factoid Question Answering over Paragraphs](https://cs.umd.edu/~miyyer/pubs/2014_qb_rnn.pdf) - [post](https://cs.umd.edu/~miyyer/qblearn/)
+- [Deep Learning without Poor Local Minima](https://arxiv.org/pdf/1605.07110v2.pdf)
+- [LSTM-BASED DEEP LEARNING MODELS FOR NONFACTOID ANSWER SELECTION](https://arxiv.org/pdf/1511.04108.pdf)
+- [Deterministic Policy Gradient Algorithms](http://jmlr.org/proceedings/papers/v32/silver14.pdf)
+- [CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING](https://arxiv.org/pdf/1509.02971v5.pdf)
+- [Encoding Source Language with Convolutional Neural Network for Machine Translation](https://arxiv.org/pdf/1503.01838v5.pdf)
 
 ## Archive (Done)
 
 ### Lectures
 - [Prof. Yann LeCun - Deep Learning and the Future of AI](https://plus.google.com/+WardPlunet/posts/hCDjdT45wKj)
 - [Future (Present?) of Machine Translation by Kyunghyun Cho](https://www.youtube.com/watch?v=z4CNmiLF-YU&feature=youtu.be)
-- [CS224D Lectures](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam)
+- [CS224D Lectures @ Stanford](https://www.youtube.com/watch?v=kZteabVD8sU&list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam)
+- [MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
+- [Dan Jurafsky & Chris Manning: Natural Language Processing](https://www.youtube.com/playlist?list=PL6397E4B26D00A269)
+- [Deep Learning Course by Nvidia](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
+- [Machine Learning Course - CS 156](https://www.youtube.com/playlist?list=PLD63A284B7615313A)
+- [Machine Learning by mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+- [Lecture Collection | Machine Learning @ Stanford](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+- [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
 ### Articles & Slides
 - [Reinforcement Learning - Ron Parr](https://www.cs.duke.edu/courses/fall15/compsci570/rl.pdf)
@@ -45,9 +60,13 @@ Below to study list in each section will be automatically forwarded via email to
 - [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
 - [Google TensorFlow Tutorial](http://www.slideshare.net/tw_dsconf/tensorflow-tutorial)
 - [Deep Learning for Stock Prediction](http://www.slideshare.net/LimZhiYuanZane/deep-learning-for-stock-prediction)
+- [ATTENTION AND MEMORY IN DEEP LEARNING AND NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
 
 ### Papers
 - [A Practical Guide to Training Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
+- [Visual Fashion-Product Search at SK Planet](https://arxiv.org/pdf/1609.07859v2.pdf)
+- [Effective Approaches to Attention-based Neural Machine Translation](http://nlp.stanford.edu/pubs/emnlp15_attn.pdf)
+- [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473v7.pdf)
 
 ## Related Websites
 - [Andrej Karpathy blog](http://karpathy.github.io/)
