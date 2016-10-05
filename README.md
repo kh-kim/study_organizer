@@ -24,6 +24,7 @@ Below to study list in each section will be automatically forwarded via email to
 - [Encoding Source Language with Convolutional Neural Network for Machine Translation](https://arxiv.org/pdf/1503.01838v5.pdf)
 - [Deterministic Policy Gradient Algorithms](http://jmlr.org/proceedings/papers/v32/silver14.pdf)
 - [CONTINUOUS CONTROL WITH DEEP REINFORCEMENT LEARNING](https://arxiv.org/pdf/1509.02971v5.pdf)
+- [Video Pixel Networks - DeepMind](https://arxiv.org/pdf/1610.00527v1.pdf)
 - [X-CNN: Cross-modal Convolutional Neural Networks for Sparse Datasets](https://arxiv.org/pdf/1610.00163v1.pdf)
 - [Deep Neural Networks for YouTube Recommendations](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf) - [요약](http://keunwoochoi.blogspot.kr/2016/09/deep-neural-networks-for-youtube.html)
 - [Deep Neural Decision Forests](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kontschieder_Deep_Neural_Decision_ICCV_2015_paper.pdf)
