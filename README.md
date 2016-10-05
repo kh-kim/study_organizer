@@ -75,7 +75,7 @@ Below to study list in each section will be automatically forwarded via email to
 - [TensorFlow With The Latest Papers Implemented](https://github.com/LeavesBreathe/tensorflow_with_latest_papers)
 - [Malmö](https://github.com/Microsoft/malmo)
 - [rllab](https://github.com/openai/rllab) - rllab is a framework for developing and evaluating reinforcement learning algorithms.
-- **[Bengio's Deeplearning Book](http://www.deeplearningbook.org/)** - [merged](https://github.com/HFTrader/DeepLearningBook)
+- **[Bengio's Deeplearning Book](http://www.deeplearningbook.org/)** - [+papers](https://github.com/HFTrader/DeepLearningBook)
 
 ## Other useful links
 - [.vimrc로 vim 설정하기](https://blog.tolinezip.com/tools/2015/01/16/vim-vimrc.html)
