@@ -9,6 +9,7 @@ Below to study list in each section will be automatically forwarded via email to
 - [CS 294: Deep Reinforcement Learning, Fall 2015 @ Berkeley](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
 - [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 - [John Schulman: Deep Reinforcement Learning](https://www.youtube.com/watch?v=aUrX-rP_ss4) - [other lectures](https://www.youtube.com/channel/UCBOEQxX6zdihFB3VxxJdgHg/videos)
+- [cs273a by Alexander Ihler](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw)
 
 ## Articles & Slides
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
