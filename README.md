@@ -64,6 +64,7 @@ Below to study list in each section will be automatically forwarded via email to
 - [Google TensorFlow Tutorial](http://www.slideshare.net/tw_dsconf/tensorflow-tutorial)
 - [Deep Learning for Stock Prediction](http://www.slideshare.net/LimZhiYuanZane/deep-learning-for-stock-prediction)
 - [A GloVe implementation in Python](http://www.foldl.me/2014/glove-python/)
+- [word2vec 관련 이론 정리](https://shuuki4.wordpress.com/2016/01/27/word2vec-%EA%B4%80%EB%A0%A8-%EC%9D%B4%EB%A1%A0-%EC%A0%95%EB%A6%AC/)
 
 ### Papers
 - [A Practical Guide to Training Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
