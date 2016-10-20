@@ -63,6 +63,7 @@ Below to study list in each section will be automatically forwarded via email to
 - [Neural Network Evolution Playground with Backprop NEAT](http://blog.otoro.net/2016/05/07/backprop-neat/)
 - [Google TensorFlow Tutorial](http://www.slideshare.net/tw_dsconf/tensorflow-tutorial)
 - [Deep Learning for Stock Prediction](http://www.slideshare.net/LimZhiYuanZane/deep-learning-for-stock-prediction)
+- [A GloVe implementation in Python](http://www.foldl.me/2014/glove-python/)
 
 ### Papers
 - [A Practical Guide to Training Restricted Boltzmann Machines](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
