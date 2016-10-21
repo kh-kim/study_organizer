@@ -4,6 +4,7 @@ This is a repository to help self studying.
 Below to study list in each section will be automatically forwarded via email to notify and push myself to study.
 
 ## Lectures
+- [Nuts and Bolts of Applying Deep Learning (Andrew Ng)](https://www.youtube.com/watch?v=F1ka6a13S9I)
 - [Artificial Intelligence in Google's Dinosaur (English Sub)](https://www.youtube.com/watch?v=P7XHzqZjXQs&feature=share)
 - [Deep Learning Summer School, Montreal 2016](http://videolectures.net/deeplearning2016_montreal/)
 - [CS 294: Deep Reinforcement Learning, Fall 2015 @ Berkeley](http://rll.berkeley.edu/deeprlcourse/#lecture-videos)
