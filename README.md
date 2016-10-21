@@ -19,6 +19,8 @@ Below to study list in each section will be automatically forwarded via email to
 - [Deep Neural Decision Forests](http://www.robots.ox.ac.uk/~tvg/publications/talks/deepNeuralDecisionForests.pdf)
 
 ## Papers
+- [Factorization Machines](http://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
+- [fastFM: A Library for Factorization Machines](https://arxiv.org/pdf/1505.00641v2.pdf) - [github](https://github.com/ibayer/fastFM)
 - [Question Answering Using Deep Learning](https://cs224d.stanford.edu/reports/StrohMathur.pdf)
 - [A Neural Network for Factoid Question Answering over Paragraphs](https://cs.umd.edu/~miyyer/pubs/2014_qb_rnn.pdf) - [post](https://cs.umd.edu/~miyyer/qblearn/)
 - [LSTM-BASED DEEP LEARNING MODELS FOR NONFACTOID ANSWER SELECTION](https://arxiv.org/pdf/1511.04108.pdf)
