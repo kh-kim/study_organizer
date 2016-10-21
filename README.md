@@ -20,6 +20,7 @@ Below to study list in each section will be automatically forwarded via email to
 
 ## Papers
 - [Factorization Machines](http://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
+- [Factorization Machines with libFM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.442.5724&rep=rep1&type=pdf)
 - [fastFM: A Library for Factorization Machines](https://arxiv.org/pdf/1505.00641v2.pdf) - [github](https://github.com/ibayer/fastFM)
 - [Question Answering Using Deep Learning](https://cs224d.stanford.edu/reports/StrohMathur.pdf)
 - [A Neural Network for Factoid Question Answering over Paragraphs](https://cs.umd.edu/~miyyer/pubs/2014_qb_rnn.pdf) - [post](https://cs.umd.edu/~miyyer/qblearn/)
