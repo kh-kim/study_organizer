@@ -35,6 +35,8 @@ Below to study list in each section will be automatically forwarded via email to
 - [Deep Neural Decision Forests](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Kontschieder_Deep_Neural_Decision_ICCV_2015_paper.pdf)
 - [Layer Normalization](https://arxiv.org/pdf/1607.06450.pdf)
 - [Deep Learning without Poor Local Minima](https://arxiv.org/pdf/1605.07110v2.pdf)
+- Deep Reinforcement Learning
+    - [Human-level control through deep reinforcement learning](http://ir.hit.edu.cn/~jguo/docs/notes/dqn-atari.pdf)
 
 ## Archive (Done)
 
