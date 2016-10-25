@@ -36,8 +36,17 @@ Below to study list in each section will be automatically forwarded via email to
 - [Layer Normalization](https://arxiv.org/pdf/1607.06450.pdf)
 - [Deep Learning without Poor Local Minima](https://arxiv.org/pdf/1605.07110v2.pdf)
 - Deep Reinforcement Learning
-    - [Human-level control through deep reinforcement learning](http://ir.hit.edu.cn/~jguo/docs/notes/dqn-atari.pdf)
-
+    - [Human-level control through deep reinforcement learning - slides](http://ir.hit.edu.cn/~jguo/docs/notes/dqn-atari.pdf)
+    - [Human-level control through deep reinforcement learning](http://www.davidqiu.com:8888/research/nature14236.pdf)
+    - [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+    - [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/pdf/1509.06461v3.pdf)
+    - [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/pdf/1511.06581.pdf)
+    - [PRIORITIZED EXPERIENCE REPLAY](https://arxiv.org/pdf/1511.05952v4.pdf)
+    - [Model-Free Episodic Control](https://arxiv.org/pdf/1606.04460v1.pdf)
+    - [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/pdf/1602.01783.pdf)
+    - [Playing Atari Games with Deep Reinforcement Learning and Human Checkpoint Replay](https://arxiv.org/pdf/1607.05077v1.pdf)
+    - [SGDR: STOCHASTIC GRADIENT DESCENT WITH RESTARTS](https://arxiv.org/pdf/1608.03983v2.pdf)
+    
 ## Archive (Done)
 
 ### Lectures
