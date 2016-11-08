@@ -20,6 +20,7 @@ Below to study list in each section will be automatically forwarded via email to
 - [Deep Neural Decision Forests](http://www.robots.ox.ac.uk/~tvg/publications/talks/deepNeuralDecisionForests.pdf)
 
 ## Papers
+- [End-To-End Memory Networks](https://arxiv.org/pdf/1503.08895v5.pdf)
 - [Factorization Machines](http://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 - [Factorization Machines with libFM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.442.5724&rep=rep1&type=pdf)
 - [fastFM: A Library for Factorization Machines](https://arxiv.org/pdf/1505.00641v2.pdf) - [github](https://github.com/ibayer/fastFM)
