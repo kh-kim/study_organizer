@@ -20,6 +20,10 @@ Below to study list in each section will be automatically forwarded via email to
 - [Deep Neural Decision Forests](http://www.robots.ox.ac.uk/~tvg/publications/talks/deepNeuralDecisionForests.pdf)
 
 ## Papers
+- [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576v2.pdf)
+- [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759v3.pdf)
+- [Enriching Word Vectors with Subword Information](https://arxiv.org/pdf/1607.04606v1.pdf)
+- [SMOTE: Synthetic Minority Over-sampling Technique](http://jair.org/media/953/live-953-2037-jair.pdf)
 - [End-To-End Memory Networks](https://arxiv.org/pdf/1503.08895v5.pdf)
 - [Factorization Machines](http://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
 - [Factorization Machines with libFM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.442.5724&rep=rep1&type=pdf)
