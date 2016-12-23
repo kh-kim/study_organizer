@@ -67,6 +67,7 @@ Below to study list in each section will be automatically forwarded via email to
 - [Lecture Collection | Machine Learning @ Stanford](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 
 ### Articles & Slides
+- [State of the art deep learning model for question answering](http://metamind.io/research/state-of-the-art-deep-learning-model-for-question-answering/)
 - [Reinforcement Learning - Ron Parr](https://www.cs.duke.edu/courses/fall15/compsci570/rl.pdf)
 - [Reinforcement Learning: an Overview - Pierre Yves Glorennec](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.4135&rep=rep1&type=pdf)
 - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) - [번역](http://keunwoochoi.blogspot.kr/2016/06/andrej-karpathy.html)
