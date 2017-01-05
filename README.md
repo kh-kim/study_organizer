@@ -20,6 +20,8 @@ Below to study list in each section will be automatically forwarded via email to
 - [Deep Neural Decision Forests](http://www.robots.ox.ac.uk/~tvg/publications/talks/deepNeuralDecisionForests.pdf)
 
 ## Papers
+- [DYNAMIC COATTENTION NETWORKS FOR QUESTION ANSWERING](https://arxiv.org/pdf/1611.01604v2.pdf)
+- [Teaching Machines to Read and Comprehend](https://arxiv.org/pdf/1506.03340v3.pdf)
 - [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576v2.pdf)
 - [Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759v3.pdf)
 - [Enriching Word Vectors with Subword Information](https://arxiv.org/pdf/1607.04606v1.pdf)
