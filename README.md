@@ -13,6 +13,7 @@ Below to study list in each section will be automatically forwarded via email to
 - [cs273a by Alexander Ihler](https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw)
 
 ## Articles & Slides
+- [Deep Learning Research Review Week 1: Generative Adversarial Nets](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets)
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [Deep Language Modeling for Question Answering using Keras](http://benjaminbolte.com/blog/2016/keras-language-modeling.html#recurrent-neural-networks)
 - [Deep Learning for Question Answering - Mohit Iyyer](http://cs.umd.edu/~miyyer/data/deepqa.pdf)
